@@ -1,13 +1,13 @@
 # U5_hypothesis
 This depository supports a study of pre-mRNA splicing, a routine molecular process in the cell nucleus.
 
-The code in this depository supports a study of pre-mRNA splicing, a routine molecular process in the cell nucleus.
+The code was used for the analysis of small nuclear RNA interactions with splice sites of human genes.
 
-Substitutions of the conserved +5G and -3C in human introns are compensated by Watson-Crick pairs between the exons and U5 snRNA  
+U5 snRNA interactions with exons ensure splicing precision  
 
 Olga Artemyeva-Isman, Andrew C.G. Porter
 
-Gene Targeting Group, Centre for Haematology, Department of Immunology and Inflammation, Imperial College Faculty of Medicine, Du Cane Road, London W12 0NN, UK
+Gene Targeting Group, Centre for Haematology, Imperial College Faculty of Medicine, Du Cane Road, London W12 0NN, UK
 
 
 Key words: splice sites, splicing mutations, U5 snRNA, U6 snRNA, U2 snRNA, U1 snRNA, Group II intron retrotransposition, RNA base pair geometry 
